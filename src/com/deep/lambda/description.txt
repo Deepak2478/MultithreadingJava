@@ -1,0 +1,14 @@
+Lambdas:
+
+--enable functional programming
+--removes boiler plate code
+--easy to use APIs and libraries
+--enables support for parallel processing
+
+Functional Vs Object oriented programming:
+-improves code readability
+
+Functional Interface:
+--interface having only one abstract method
+
+Predicate: Functional interface that accepts object and returns boolean.

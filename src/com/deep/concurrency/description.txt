@@ -1,0 +1,1 @@
+Exchanger : Used to exchange data between two threads Waits till both the threads call the exchange method.
